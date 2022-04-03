@@ -2,7 +2,7 @@
 
 document.querySelector('.highscore').textContent = 0;
 
-let xnumber = Math.floor(Math.random() * 10) + 1;
+let xnumber = Math.floor(Math.random() * 20) + 1;
 // document.querySelector('.score').textContent = 20;
 let score = document.querySelector('.score').textContent;
 score = 20;
